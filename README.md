@@ -19,9 +19,9 @@
 Derin öğrenme mimarilerini mevcut bir veri seti üzerinden çalıştırarak, derin öğrenme hakkında bilgi sahibi olmak. 
 
 ## Kurulum
-2.1.0+cu121=Torch/
-0.16.0+cu121=Torchvision/
-2.15.0=Tenserflow/
+2.1.0+cu121=Torch /
+0.16.0+cu121=Torchvision /
+2.15.0=Tenserflow /
 1.23.5=Numpy
 
 ## Kullanım
@@ -33,9 +33,11 @@ Collab üzerinden çalışıyolar ise TransferLearning üzerinde çalışılıyo
 "pip install torchvision --upgrade" kod bloğu çalıştırıp restrat tuşuna basılmalı.
 
 ## Katkılar
-https://www.tensorflow.org/?hl=tr
+https://www.tensorflow.org/?hl=tr / 
 https://pytorch.org
 
 ## İletişim
-Ramazan Kaan Arıkan-kaanarikan007@hotmail.com
-Bünyamin Güngördü-bnymngngrdu@gmail.com
+Ramazan Kaan Arıkan = kaanarikan007@hotmail.com /
+Muhammed Furkan Kundakcı| = m.furkank12@gmail.com /
+Bünyamin Güngördü = bnymngngrdu@gmail.com /
+Ömer Osman Yiğit = yigitosman063@gmail.com 
