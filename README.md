@@ -38,6 +38,6 @@ https://pytorch.org
 
 ## İletişim
 Ramazan Kaan Arıkan = kaanarikan007@hotmail.com /
-Muhammed Furkan Kundakcı| = m.furkank12@gmail.com /
+Muhammed Furkan Kundakcı = m.furkank12@gmail.com /
 Bünyamin Güngördü = bnymngngrdu@gmail.com /
 Ömer Osman Yiğit = yigitosman063@gmail.com 
