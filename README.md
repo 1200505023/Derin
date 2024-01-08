@@ -19,9 +19,9 @@
 Derin öğrenme mimarilerini mevcut bir veri seti üzerinden çalıştırarak, derin öğrenme hakkında bilgi sahibi olmak. 
 
 ## Kurulum
-2.1.0+cu121=Torch
-0.16.0+cu121=Torchvision
-2.15.0=Tenserflow
+2.1.0+cu121=Torch/
+0.16.0+cu121=Torchvision/
+2.15.0=Tenserflow/
 1.23.5=Numpy
 
 ## Kullanım
